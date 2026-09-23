@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694529420034",
+    "project_id": "travlixto-61e39f52",
+    "storage_bucket": "travlixto-61e39f52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694529420034:android:1291785e11b8671f81701b",
+        "android_client_info": {
+          "package_name": "com.travlixto.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYyxweuo6824AP05kMTW6z4DOP8y-UFyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

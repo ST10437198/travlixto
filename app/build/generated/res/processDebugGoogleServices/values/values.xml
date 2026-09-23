@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">694529420034</string>
+    <string name="google_api_key" translatable="false">AIzaSyAYyxweuo6824AP05kMTW6z4DOP8y-UFyc</string>
+    <string name="google_app_id" translatable="false">1:694529420034:android:1291785e11b8671f81701b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAYyxweuo6824AP05kMTW6z4DOP8y-UFyc</string>
+    <string name="google_storage_bucket" translatable="false">travlixto-61e39f52.firebasestorage.app</string>
+    <string name="project_id" translatable="false">travlixto-61e39f52</string>
+</resources>
