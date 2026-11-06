@@ -1,5 +1,6 @@
 package com.travlixto.app.viewmodel
 
+import android.content.Context
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
@@ -58,6 +59,30 @@ class AuthViewModel(
                     )
                 },
                 onFailure = { uiState = AuthUiState.Error(it.message ?: "Sign up failed") }
+            )
+        }
+    }
+
+    fun signInWithGoogle(context: Context) {
+        uiState = AuthUiState.Loading
+        viewModelScope.launch {
+            authRepository.signInWithGoogle(context).fold(
+                onSuccess = { google ->
+                    if (google.isNewUser) {
+                        // First time with Google: create their profile document.
+                        val name = google.user.displayName.orEmpty().trim()
+                        val newUser = User(
+                            uid = google.user.uid,
+                            firstName = name.substringBefore(" "),
+                            lastName = name.substringAfter(" ", ""),
+                            email = google.user.email.orEmpty(),
+                            profilePictureUrl = google.user.photoUrl?.toString().orEmpty()
+                        )
+                        userRepository.createUserProfile(newUser)
+                    }
+                    uiState = AuthUiState.Success
+                },
+                onFailure = { uiState = AuthUiState.Error(it.message ?: "Google sign in failed") }
             )
         }
     }

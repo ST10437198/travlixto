@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.travlixto.app-mergeDebugResources-56:/values-af/values-af.xml",
+            "outputFile": "com.travlixto.app-mergeDebugResources-58:/values-af/values-af.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Teagon\\.gradle\\caches\\9.3.0\\transforms\\151bc5e760d957162ab79675f575f778\\workspace\\transformed\\foundation-release\\res\\values-af\\values-af.xml",
@@ -52,23 +52,6 @@
                         "startOffsets": "3450,3839,3941,4054",
                         "endColumns": "104,101,112,99",
                         "endOffsets": "3550,3936,4049,4149"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Teagon\\.gradle\\caches\\9.3.0\\transforms\\1cc0083124f39d8836c7122c3b785a86\\workspace\\transformed\\credentials-1.2.0-rc01\\res\\values-af\\values-af.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,167",
-                        "endColumns": "111,121",
-                        "endOffsets": "162,284"
-                    },
-                    "to": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "105,217",
-                        "endColumns": "111,121",
-                        "endOffsets": "212,334"
                     }
                 },
                 {
@@ -123,7 +106,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Teagon\\.gradle\\caches\\9.3.0\\transforms\\f74d367471c847be58f5745924aaef73\\workspace\\transformed\\play-services-base-18.1.0\\res\\values-af\\values.xml",
+                    "source": "C:\\Users\\Teagon\\.gradle\\caches\\9.3.0\\transforms\\6134481df3dd2893b718563f3549eb5c\\workspace\\transformed\\play-services-base-18.3.0\\res\\values-af\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -137,6 +120,23 @@
                         "startOffsets": "1254,1361,1517,1643,1753,1903,2025,2146,2391,2557,2665,2822,2949,3088,3242,3308,3371",
                         "endColumns": "106,155,125,109,149,121,120,101,165,107,156,126,138,153,65,62,78",
                         "endOffsets": "1356,1512,1638,1748,1898,2020,2141,2243,2552,2660,2817,2944,3083,3237,3303,3366,3445"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Teagon\\.gradle\\caches\\9.3.0\\transforms\\5cb6b1c696e0fdac2631c8c9e2fd4339\\workspace\\transformed\\credentials-1.3.0-beta01\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,167",
+                        "endColumns": "111,121",
+                        "endOffsets": "162,284"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,217",
+                        "endColumns": "111,121",
+                        "endOffsets": "212,334"
                     }
                 }
             ]

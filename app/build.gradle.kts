@@ -51,11 +51,18 @@ dependencies {
     implementation("androidx.navigation:navigation-compose:2.7.7")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.4")
 
+    implementation("androidx.credentials:credentials:1.2.2")
+    implementation("androidx.credentials:credentials-play-services-auth:1.2.2")
+    implementation("com.google.android.libraries.identity.googleid:googleid:1.1.1")
+
     // Firebase (BoM manages versions)
     implementation(platform("com.google.firebase:firebase-bom:33.1.2"))
     implementation("com.google.firebase:firebase-auth-ktx")
     implementation("com.google.firebase:firebase-firestore-ktx")
     implementation("com.google.firebase:firebase-storage-ktx")
+
+    // Add the dependency for Firebase Cloud Messaging
+    implementation("com.google.firebase:firebase-messaging")
 
     // Retrofit (for any non-Firebase REST APIs, e.g. weather/travel data)
     implementation("com.squareup.retrofit2:retrofit:2.11.0")

@@ -16,17 +16,27 @@ MERGED from [io.coil-kt:coil-compose-base:2.6.0] C:\Users\Teagon\.gradle\caches\
 MERGED from [io.coil-kt:coil:2.6.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a684e2dee4542700482dbf7811732938\workspace\transformed\coil-2.6.0\AndroidManifest.xml:2:1-7:12
 MERGED from [io.coil-kt:coil-base:2.6.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\85b01faf99e3ed4c961ccf08140127e3\workspace\transformed\coil-base-2.6.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\23830ad1fe4612021574d6db35000390\workspace\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\10bcdfee99aba60558a0a1e4b7c0e1e8\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\56407ee57e07439b20c85058f4fc2eb7\workspace\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f1e837f4ea2492cc719d2f67e9e3c8a9\workspace\transformed\firebase-auth-23.0.0\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\808b12613b94053dc4c3d5dc7b7f5fc2\workspace\transformed\googleid-1.1.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\5cb6b1c696e0fdac2631c8c9e2fd4339\workspace\transformed\credentials-1.3.0-beta01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:17:1-66:12
 MERGED from [com.google.firebase:firebase-storage-ktx:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2e6cb788c09a626887f7b4bad299e484\workspace\transformed\firebase-storage-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
 MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\b60fbef61d413a1ef99d08b6e5b87306\workspace\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:2:1-18:12
 MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\382b7c1fbc7e5cd8135fcc21323a2714\workspace\transformed\firebase-storage-21.0.0\AndroidManifest.xml:15:1-39:12
 MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0f7dbe8284fd48f5b8d79f1a55e6378a\workspace\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:2:1-24:12
 MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d7f329d49b6d9e09c5256f8f50631217\workspace\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:15:1-34:12
 MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f30379b1b4b82e4e9f5923674798898e\workspace\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\783788f73bea9d8ff64ce61993d48cf1\workspace\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4c2886ee21eff37f3b0d38b4272b444c\workspace\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f40363bf3c6baa8d606ac765acdd76f1\workspace\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0c7dfa14f5cc1c72a534b424ac311110\workspace\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\46da3847f3629d9a101925f62581d714\workspace\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d349cc06c1bb08ca6279b50e4c37fbeb\workspace\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e253692eb16b68f1b54deda2c699ff8b\workspace\transformed\play-services-fido-21.0.0\AndroidManifest.xml:2:1-10:12
 MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\9305f92aeaef0f138cd0999cfb7b1697\workspace\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\adea127c9c2fb9f801e89151c3ac5e94\workspace\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material:material-ripple-android:1.6.8] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d4259385a72f17251779f82db608505d\workspace\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
@@ -43,25 +53,24 @@ MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] C:\Users\T
 MERGED from [androidx.compose.runtime:runtime-android:1.6.8] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\99d7848031f127ed4b41cd4c1b4371b2\workspace\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\644eec0fe3d8746b37dd42abb964bf78\workspace\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:17:1-23:12
 MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a02f2335113c3f13891b86f836896f01\workspace\transformed\recaptcha-18.4.0\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:17:1-44:12
-MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\1cc0083124f39d8836c7122c3b785a86\workspace\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\5ba09ad524b37cb5684c5ce2c55f8569\workspace\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
-MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\16fa2a998f61fd6edd4c2dc622100e3a\workspace\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\fca88bc4b1272f0663575c8cb6dabcc3\workspace\transformed\integrity-1.2.0\AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\debcc671c47ae7779fd587c8b8c23896\workspace\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2905e0f945abb8c0343cb00c936ddf6f\workspace\transformed\play-services-fido-20.1.0\AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\281b1b1c7d8831e206f5919b99fd286f\workspace\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f74d367471c847be58f5745924aaef73\workspace\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
-MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7e159f1c6eb0c019b840e4802ffd9e0a\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\77f910d0c7451bbc4013afb2a2b23cab\workspace\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e0953d0881e376356831418a3389e885\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d0566b0cd8892a20bb0056fe82828301\workspace\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f0ea5db0302d2fe13df8e507c57a56f8\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\ba50d000d58176514cd4b89729b53f01\workspace\transformed\lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\073c92ee6d7beeaf54bb07e4716da22e\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\59267087de4ea326957abe182805c192\workspace\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\fe428c629f08b1792a400b537c85ce61\workspace\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\59267087de4ea326957abe182805c192\workspace\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\5ba09ad524b37cb5684c5ce2c55f8569\workspace\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0529d5d904aa5059ccb803a6742dc97f\workspace\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\16fa2a998f61fd6edd4c2dc622100e3a\workspace\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\fca88bc4b1272f0663575c8cb6dabcc3\workspace\transformed\integrity-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\debcc671c47ae7779fd587c8b8c23896\workspace\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e5b01ca2c068e38bbad01baf24fa9ce8\workspace\transformed\play-services-auth-base-18.0.10\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\6134481df3dd2893b718563f3549eb5c\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7e159f1c6eb0c019b840e4802ffd9e0a\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\40eb44ae8ab101d2679afad7b1452e59\workspace\transformed\fragment-1.5.7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\10bcdfee99aba60558a0a1e4b7c0e1e8\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\b9d2c9328e4e2580f6d96e24a45aa90e\workspace\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:2:1-5:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f3b4e09c8520ec6ab57f8cdc63c52b3e\workspace\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8c07d9d59328900401de16906dc773b5\workspace\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
@@ -75,9 +84,9 @@ MERGED from [androidx.activity:activity:1.9.1] C:\Users\Teagon\.gradle\caches\9.
 MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\5bfd8abf444bb35d7aeb98eb1691742a\workspace\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.browser:browser:1.4.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e9976a1d11b57fe434111ffa72213d2d\workspace\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8807aa839a4224bb74d30acb0a6aab79\workspace\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\704499405d0b9ef5997c1e1ac625215e\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e5cc1e183620913b9bc90a178b1bdde1\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0247c25bfd4bc3990d5a3b27e9099a3a\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\704499405d0b9ef5997c1e1ac625215e\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\b230865db70312f3e45fe7fa421d9d3a\workspace\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.13.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\29053508e5b00c025d2443f6185f69ad\workspace\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\83ba7d27c68357298a2e5b82e494017a\workspace\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
@@ -86,13 +95,19 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Teagon\
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\c4eeb895da864e848142a217614c2bd2\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\bfd2adf7f5326de290479ab31ead2f7d\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\680259ea0bf0cf0a8e9a82b5b3a9266c\workspace\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f683945a96985438d9bded5bd8277353\workspace\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\c299f80eec326dae9a490ec8f7ea1ab0\workspace\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4514f4bc52238e5627f1be2e53a34f72\workspace\transformed\transport-api-3.1.0\AndroidManifest.xml:15:1-20:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\91e8f707bddbe6345b2d5b6f5796ef7e\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\beb931841347002d6d7feecb580360b6\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\672a470bb4a047c73773343489cee376\workspace\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\62ff2ac767f81c2a74a6bbbed584e5ec\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\74d26b9dc16f18e271be48a1654af475\workspace\transformed\exifinterface-1.3.7\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\36ad09dfc5ecbf76435b241539a84902\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\c0242eedb335c0b9398779cbaf875f24\workspace\transformed\googleid-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4b722e6fb400547fd966759b13ffe1c0\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a98c07876b871e6d2083b79d1268f75c\workspace\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\908941fcf672fb671bdac974f4f5dce6\workspace\transformed\grpc-android-1.57.2\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\9d1418223938065f3c4bd5462e3b295d\workspace\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
 	package
@@ -111,8 +126,14 @@ MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Teagon\.gradl
 MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\382b7c1fbc7e5cd8135fcc21323a2714\workspace\transformed\firebase-storage-21.0.0\AndroidManifest.xml:24:5-67
 MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0f7dbe8284fd48f5b8d79f1a55e6378a\workspace\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0f7dbe8284fd48f5b8d79f1a55e6378a\workspace\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\46da3847f3629d9a101925f62581d714\workspace\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\46da3847f3629d9a101925f62581d714\workspace\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:8:5-67
 MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a02f2335113c3f13891b86f836896f01\workspace\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
 MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a02f2335113c3f13891b86f836896f01\workspace\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:25:5-67
 	android:name
 		ADDED from C:\Users\Teagon\Desktop\Travlixto\app\src\main\AndroidManifest.xml:4:22-64
 application
@@ -122,6 +143,12 @@ MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Teagon\.grad
 MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\56407ee57e07439b20c85058f4fc2eb7\workspace\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:7:5-15:19
 MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f1e837f4ea2492cc719d2f67e9e3c8a9\workspace\transformed\firebase-auth-23.0.0\AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f1e837f4ea2492cc719d2f67e9e3c8a9\workspace\transformed\firebase-auth-23.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:28:5-64:19
 MERGED from [com.google.firebase:firebase-storage-ktx:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2e6cb788c09a626887f7b4bad299e484\workspace\transformed\firebase-storage-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
 MERGED from [com.google.firebase:firebase-storage-ktx:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2e6cb788c09a626887f7b4bad299e484\workspace\transformed\firebase-storage-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
 MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\b60fbef61d413a1ef99d08b6e5b87306\workspace\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:8:5-16:19
@@ -130,6 +157,8 @@ MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Teagon\.gradl
 MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\382b7c1fbc7e5cd8135fcc21323a2714\workspace\transformed\firebase-storage-21.0.0\AndroidManifest.xml:26:5-37:19
 MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0f7dbe8284fd48f5b8d79f1a55e6378a\workspace\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:13:5-24:19
 MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0f7dbe8284fd48f5b8d79f1a55e6378a\workspace\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
 MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d7f329d49b6d9e09c5256f8f50631217\workspace\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:21:5-32:19
 MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d7f329d49b6d9e09c5256f8f50631217\workspace\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:21:5-32:19
 MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f30379b1b4b82e4e9f5923674798898e\workspace\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
@@ -138,30 +167,38 @@ MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Teagon\.
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\783788f73bea9d8ff64ce61993d48cf1\workspace\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4c2886ee21eff37f3b0d38b4272b444c\workspace\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
 MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4c2886ee21eff37f3b0d38b4272b444c\workspace\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
-MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
-MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\5ba09ad524b37cb5684c5ce2c55f8569\workspace\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\5ba09ad524b37cb5684c5ce2c55f8569\workspace\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
-MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
-MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
-MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\fca88bc4b1272f0663575c8cb6dabcc3\workspace\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
-MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\fca88bc4b1272f0663575c8cb6dabcc3\workspace\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
-MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2905e0f945abb8c0343cb00c936ddf6f\workspace\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2905e0f945abb8c0343cb00c936ddf6f\workspace\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f74d367471c847be58f5745924aaef73\workspace\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f74d367471c847be58f5745924aaef73\workspace\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7e159f1c6eb0c019b840e4802ffd9e0a\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7e159f1c6eb0c019b840e4802ffd9e0a\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f40363bf3c6baa8d606ac765acdd76f1\workspace\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f40363bf3c6baa8d606ac765acdd76f1\workspace\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0c7dfa14f5cc1c72a534b424ac311110\workspace\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0c7dfa14f5cc1c72a534b424ac311110\workspace\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d349cc06c1bb08ca6279b50e4c37fbeb\workspace\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d349cc06c1bb08ca6279b50e4c37fbeb\workspace\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e253692eb16b68f1b54deda2c699ff8b\workspace\transformed\play-services-fido-21.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e253692eb16b68f1b54deda2c699ff8b\workspace\transformed\play-services-fido-21.0.0\AndroidManifest.xml:7:5-8:19
 MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f0ea5db0302d2fe13df8e507c57a56f8\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f0ea5db0302d2fe13df8e507c57a56f8\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\073c92ee6d7beeaf54bb07e4716da22e\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\073c92ee6d7beeaf54bb07e4716da22e\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\5ba09ad524b37cb5684c5ce2c55f8569\workspace\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\5ba09ad524b37cb5684c5ce2c55f8569\workspace\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\fca88bc4b1272f0663575c8cb6dabcc3\workspace\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\fca88bc4b1272f0663575c8cb6dabcc3\workspace\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\6134481df3dd2893b718563f3549eb5c\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\6134481df3dd2893b718563f3549eb5c\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7e159f1c6eb0c019b840e4802ffd9e0a\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7e159f1c6eb0c019b840e4802ffd9e0a\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
 MERGED from [androidx.core:core:1.13.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\29053508e5b00c025d2443f6185f69ad\workspace\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
 MERGED from [androidx.core:core:1.13.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\29053508e5b00c025d2443f6185f69ad\workspace\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\bfd2adf7f5326de290479ab31ead2f7d\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\bfd2adf7f5326de290479ab31ead2f7d\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f683945a96985438d9bded5bd8277353\workspace\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f683945a96985438d9bded5bd8277353\workspace\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:25:5-39:19
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\91e8f707bddbe6345b2d5b6f5796ef7e\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\91e8f707bddbe6345b2d5b6f5796ef7e\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\beb931841347002d6d7feecb580360b6\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
@@ -228,12 +265,20 @@ MERGED from [io.coil-kt:coil-base:2.6.0] C:\Users\Teagon\.gradle\caches\9.3.0\tr
 MERGED from [io.coil-kt:coil-base:2.6.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\85b01faf99e3ed4c961ccf08140127e3\workspace\transformed\coil-base-2.6.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\23830ad1fe4612021574d6db35000390\workspace\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\23830ad1fe4612021574d6db35000390\workspace\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\10bcdfee99aba60558a0a1e4b7c0e1e8\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\10bcdfee99aba60558a0a1e4b7c0e1e8\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\56407ee57e07439b20c85058f4fc2eb7\workspace\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\56407ee57e07439b20c85058f4fc2eb7\workspace\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f1e837f4ea2492cc719d2f67e9e3c8a9\workspace\transformed\firebase-auth-23.0.0\AndroidManifest.xml:21:5-23:151
 MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f1e837f4ea2492cc719d2f67e9e3c8a9\workspace\transformed\firebase-auth-23.0.0\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\808b12613b94053dc4c3d5dc7b7f5fc2\workspace\transformed\googleid-1.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\808b12613b94053dc4c3d5dc7b7f5fc2\workspace\transformed\googleid-1.1.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\5cb6b1c696e0fdac2631c8c9e2fd4339\workspace\transformed\credentials-1.3.0-beta01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\5cb6b1c696e0fdac2631c8c9e2fd4339\workspace\transformed\credentials-1.3.0-beta01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-storage-ktx:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2e6cb788c09a626887f7b4bad299e484\workspace\transformed\firebase-storage-ktx-21.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-storage-ktx:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2e6cb788c09a626887f7b4bad299e484\workspace\transformed\firebase-storage-ktx-21.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\b60fbef61d413a1ef99d08b6e5b87306\workspace\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:5:5-44
@@ -242,6 +287,8 @@ MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Teagon\.gradl
 MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\382b7c1fbc7e5cd8135fcc21323a2714\workspace\transformed\firebase-storage-21.0.0\AndroidManifest.xml:19:5-44
 MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0f7dbe8284fd48f5b8d79f1a55e6378a\workspace\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0f7dbe8284fd48f5b8d79f1a55e6378a\workspace\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d7f329d49b6d9e09c5256f8f50631217\workspace\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:18:5-44
 MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d7f329d49b6d9e09c5256f8f50631217\workspace\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:18:5-44
 MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f30379b1b4b82e4e9f5923674798898e\workspace\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
@@ -250,6 +297,16 @@ MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Teagon\.
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\783788f73bea9d8ff64ce61993d48cf1\workspace\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4c2886ee21eff37f3b0d38b4272b444c\workspace\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
 MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4c2886ee21eff37f3b0d38b4272b444c\workspace\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f40363bf3c6baa8d606ac765acdd76f1\workspace\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f40363bf3c6baa8d606ac765acdd76f1\workspace\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0c7dfa14f5cc1c72a534b424ac311110\workspace\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0c7dfa14f5cc1c72a534b424ac311110\workspace\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\46da3847f3629d9a101925f62581d714\workspace\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\46da3847f3629d9a101925f62581d714\workspace\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d349cc06c1bb08ca6279b50e4c37fbeb\workspace\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d349cc06c1bb08ca6279b50e4c37fbeb\workspace\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e253692eb16b68f1b54deda2c699ff8b\workspace\transformed\play-services-fido-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e253692eb16b68f1b54deda2c699ff8b\workspace\transformed\play-services-fido-21.0.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\9305f92aeaef0f138cd0999cfb7b1697\workspace\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\9305f92aeaef0f138cd0999cfb7b1697\workspace\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\adea127c9c2fb9f801e89151c3ac5e94\workspace\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
@@ -282,32 +339,8 @@ MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users
 MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\644eec0fe3d8746b37dd42abb964bf78\workspace\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
 MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a02f2335113c3f13891b86f836896f01\workspace\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a02f2335113c3f13891b86f836896f01\workspace\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
-MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
-MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\1cc0083124f39d8836c7122c3b785a86\workspace\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
-MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\1cc0083124f39d8836c7122c3b785a86\workspace\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\5ba09ad524b37cb5684c5ce2c55f8569\workspace\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\5ba09ad524b37cb5684c5ce2c55f8569\workspace\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
-MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\16fa2a998f61fd6edd4c2dc622100e3a\workspace\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\16fa2a998f61fd6edd4c2dc622100e3a\workspace\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\fca88bc4b1272f0663575c8cb6dabcc3\workspace\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
-MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\fca88bc4b1272f0663575c8cb6dabcc3\workspace\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
-MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\debcc671c47ae7779fd587c8b8c23896\workspace\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\debcc671c47ae7779fd587c8b8c23896\workspace\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2905e0f945abb8c0343cb00c936ddf6f\workspace\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2905e0f945abb8c0343cb00c936ddf6f\workspace\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\281b1b1c7d8831e206f5919b99fd286f\workspace\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\281b1b1c7d8831e206f5919b99fd286f\workspace\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f74d367471c847be58f5745924aaef73\workspace\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f74d367471c847be58f5745924aaef73\workspace\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7e159f1c6eb0c019b840e4802ffd9e0a\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7e159f1c6eb0c019b840e4802ffd9e0a\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\77f910d0c7451bbc4013afb2a2b23cab\workspace\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\77f910d0c7451bbc4013afb2a2b23cab\workspace\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e0953d0881e376356831418a3389e885\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e0953d0881e376356831418a3389e885\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d0566b0cd8892a20bb0056fe82828301\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d0566b0cd8892a20bb0056fe82828301\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f0ea5db0302d2fe13df8e507c57a56f8\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
@@ -316,10 +349,32 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\Teag
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\ba50d000d58176514cd4b89729b53f01\workspace\transformed\lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\073c92ee6d7beeaf54bb07e4716da22e\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:21:5-44
 MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\073c92ee6d7beeaf54bb07e4716da22e\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\59267087de4ea326957abe182805c192\workspace\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\59267087de4ea326957abe182805c192\workspace\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\fe428c629f08b1792a400b537c85ce61\workspace\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\fe428c629f08b1792a400b537c85ce61\workspace\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\59267087de4ea326957abe182805c192\workspace\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\59267087de4ea326957abe182805c192\workspace\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\5ba09ad524b37cb5684c5ce2c55f8569\workspace\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\5ba09ad524b37cb5684c5ce2c55f8569\workspace\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0529d5d904aa5059ccb803a6742dc97f\workspace\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0529d5d904aa5059ccb803a6742dc97f\workspace\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\16fa2a998f61fd6edd4c2dc622100e3a\workspace\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\16fa2a998f61fd6edd4c2dc622100e3a\workspace\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\fca88bc4b1272f0663575c8cb6dabcc3\workspace\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\fca88bc4b1272f0663575c8cb6dabcc3\workspace\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\debcc671c47ae7779fd587c8b8c23896\workspace\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\debcc671c47ae7779fd587c8b8c23896\workspace\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e5b01ca2c068e38bbad01baf24fa9ce8\workspace\transformed\play-services-auth-base-18.0.10\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e5b01ca2c068e38bbad01baf24fa9ce8\workspace\transformed\play-services-auth-base-18.0.10\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\6134481df3dd2893b718563f3549eb5c\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\6134481df3dd2893b718563f3549eb5c\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7e159f1c6eb0c019b840e4802ffd9e0a\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7e159f1c6eb0c019b840e4802ffd9e0a\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\40eb44ae8ab101d2679afad7b1452e59\workspace\transformed\fragment-1.5.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\40eb44ae8ab101d2679afad7b1452e59\workspace\transformed\fragment-1.5.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\10bcdfee99aba60558a0a1e4b7c0e1e8\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\10bcdfee99aba60558a0a1e4b7c0e1e8\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\b9d2c9328e4e2580f6d96e24a45aa90e\workspace\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:4:5-43
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\b9d2c9328e4e2580f6d96e24a45aa90e\workspace\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:4:5-43
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f3b4e09c8520ec6ab57f8cdc63c52b3e\workspace\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
@@ -346,12 +401,12 @@ MERGED from [androidx.browser:browser:1.4.0] C:\Users\Teagon\.gradle\caches\9.3.
 MERGED from [androidx.browser:browser:1.4.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e9976a1d11b57fe434111ffa72213d2d\workspace\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8807aa839a4224bb74d30acb0a6aab79\workspace\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8807aa839a4224bb74d30acb0a6aab79\workspace\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\704499405d0b9ef5997c1e1ac625215e\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\704499405d0b9ef5997c1e1ac625215e\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e5cc1e183620913b9bc90a178b1bdde1\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\e5cc1e183620913b9bc90a178b1bdde1\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0247c25bfd4bc3990d5a3b27e9099a3a\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0247c25bfd4bc3990d5a3b27e9099a3a\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\704499405d0b9ef5997c1e1ac625215e\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\704499405d0b9ef5997c1e1ac625215e\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\b230865db70312f3e45fe7fa421d9d3a\workspace\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\b230865db70312f3e45fe7fa421d9d3a\workspace\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.13.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\29053508e5b00c025d2443f6185f69ad\workspace\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
@@ -368,6 +423,16 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Te
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\bfd2adf7f5326de290479ab31ead2f7d\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\680259ea0bf0cf0a8e9a82b5b3a9266c\workspace\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
 MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\680259ea0bf0cf0a8e9a82b5b3a9266c\workspace\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f683945a96985438d9bded5bd8277353\workspace\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f683945a96985438d9bded5bd8277353\workspace\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\c299f80eec326dae9a490ec8f7ea1ab0\workspace\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\c299f80eec326dae9a490ec8f7ea1ab0\workspace\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4514f4bc52238e5627f1be2e53a34f72\workspace\transformed\transport-api-3.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4514f4bc52238e5627f1be2e53a34f72\workspace\transformed\transport-api-3.1.0\AndroidManifest.xml:18:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\91e8f707bddbe6345b2d5b6f5796ef7e\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\91e8f707bddbe6345b2d5b6f5796ef7e\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\beb931841347002d6d7feecb580360b6\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
@@ -380,8 +445,10 @@ MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\Teagon\.gradle
 MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\74d26b9dc16f18e271be48a1654af475\workspace\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\36ad09dfc5ecbf76435b241539a84902\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\36ad09dfc5ecbf76435b241539a84902\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\c0242eedb335c0b9398779cbaf875f24\workspace\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\c0242eedb335c0b9398779cbaf875f24\workspace\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4b722e6fb400547fd966759b13ffe1c0\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4b722e6fb400547fd966759b13ffe1c0\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a98c07876b871e6d2083b79d1268f75c\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a98c07876b871e6d2083b79d1268f75c\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\908941fcf672fb671bdac974f4f5dce6\workspace\transformed\grpc-android-1.57.2\AndroidManifest.xml:5:5-44
 MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\908941fcf672fb671bdac974f4f5dce6\workspace\transformed\grpc-android-1.57.2\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\9d1418223938065f3c4bd5462e3b295d\workspace\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
@@ -396,6 +463,8 @@ service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\56407ee57e07439b20c85058f4fc2eb7\workspace\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:8:9-14:19
 MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f1e837f4ea2492cc719d2f67e9e3c8a9\workspace\transformed\firebase-auth-23.0.0\AndroidManifest.xml:66:9-72:19
 MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f1e837f4ea2492cc719d2f67e9e3c8a9\workspace\transformed\firebase-auth-23.0.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:54:9-63:19
 MERGED from [com.google.firebase:firebase-storage-ktx:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2e6cb788c09a626887f7b4bad299e484\workspace\transformed\firebase-storage-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
 MERGED from [com.google.firebase:firebase-storage-ktx:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2e6cb788c09a626887f7b4bad299e484\workspace\transformed\firebase-storage-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
 MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\b60fbef61d413a1ef99d08b6e5b87306\workspace\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:9:9-15:19
@@ -404,12 +473,16 @@ MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Teagon\.gradl
 MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\382b7c1fbc7e5cd8135fcc21323a2714\workspace\transformed\firebase-storage-21.0.0\AndroidManifest.xml:27:9-36:19
 MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0f7dbe8284fd48f5b8d79f1a55e6378a\workspace\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:14:9-23:19
 MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0f7dbe8284fd48f5b8d79f1a55e6378a\workspace\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
 MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d7f329d49b6d9e09c5256f8f50631217\workspace\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:22:9-31:19
 MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d7f329d49b6d9e09c5256f8f50631217\workspace\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:22:9-31:19
 MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f30379b1b4b82e4e9f5923674798898e\workspace\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
 MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f30379b1b4b82e4e9f5923674798898e\workspace\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
 MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4c2886ee21eff37f3b0d38b4272b444c\workspace\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
 MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4c2886ee21eff37f3b0d38b4272b444c\workspace\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f683945a96985438d9bded5bd8277353\workspace\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f683945a96985438d9bded5bd8277353\workspace\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:22:9-28:19
 	android:exported
 		ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\56407ee57e07439b20c85058f4fc2eb7\workspace\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:10:13-37
 	tools:targetApi
@@ -426,12 +499,22 @@ ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Teagon\.gradl
 		ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\56407ee57e07439b20c85058f4fc2eb7\workspace\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:12:17-119
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f1e837f4ea2492cc719d2f67e9e3c8a9\workspace\transformed\firebase-auth-23.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\382b7c1fbc7e5cd8135fcc21323a2714\workspace\transformed\firebase-storage-21.0.0\AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\382b7c1fbc7e5cd8135fcc21323a2714\workspace\transformed\firebase-storage-21.0.0\AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0f7dbe8284fd48f5b8d79f1a55e6378a\workspace\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:10:5-79
 MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0f7dbe8284fd48f5b8d79f1a55e6378a\workspace\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\46da3847f3629d9a101925f62581d714\workspace\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\46da3847f3629d9a101925f62581d714\workspace\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:7:5-79
 MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a02f2335113c3f13891b86f836896f01\workspace\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
 MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a02f2335113c3f13891b86f836896f01\workspace\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:22:5-79
 MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\908941fcf672fb671bdac974f4f5dce6\workspace\transformed\grpc-android-1.57.2\AndroidManifest.xml:7:5-79
 MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\908941fcf672fb671bdac974f4f5dce6\workspace\transformed\grpc-android-1.57.2\AndroidManifest.xml:7:5-79
 	android:name
@@ -490,6 +573,120 @@ ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Teagon\.gradle\ca
 		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f1e837f4ea2492cc719d2f67e9e3c8a9\workspace\transformed\firebase-auth-23.0.0\AndroidManifest.xml:71:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f1e837f4ea2492cc719d2f67e9e3c8a9\workspace\transformed\firebase-auth-23.0.0\AndroidManifest.xml:70:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.3.0-beta01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\7772f337b8f0a64d10ea39b70fea38d7\workspace\transformed\credentials-play-services-auth-1.3.0-beta01\AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\8e1fc56f2a64df6effde691ed9dcca11\workspace\transformed\play-services-auth-21.1.1\AndroidManifest.xml:34:13-89
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:23:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\46da3847f3629d9a101925f62581d714\workspace\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\46da3847f3629d9a101925f62581d714\workspace\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\46da3847f3629d9a101925f62581d714\workspace\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\46da3847f3629d9a101925f62581d714\workspace\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:26:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:29:9-40:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:31:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:32:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:33:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:34:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:34:25-78
+meta-data#com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:38:17-92
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:46:9-53:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:49:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:47:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:50:13-52:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:50:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:51:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:51:25-75
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:57:13-59:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:59:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:58:17-122
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:60:13-62:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:62:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\435a9748c211cbe9db461c33084e5fa0\workspace\transformed\firebase-messaging-24.0.0\AndroidManifest.xml:61:17-119
 meta-data#com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageLegacyRegistrar
 ADDED from [com.google.firebase:firebase-storage-ktx:21.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2e6cb788c09a626887f7b4bad299e484\workspace\transformed\firebase-storage-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
 	android:value
@@ -526,6 +723,18 @@ ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Teagon\.grad
 		ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0f7dbe8284fd48f5b8d79f1a55e6378a\workspace\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:22:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\0f7dbe8284fd48f5b8d79f1a55e6378a\workspace\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\2d543b0926117dab36ca2af6072c8642\workspace\transformed\firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
 meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
 ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d7f329d49b6d9e09c5256f8f50631217\workspace\transformed\firebase-appcheck-18.0.0\AndroidManifest.xml:25:13-27:85
 	android:value
@@ -566,70 +775,6 @@ uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
 ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a02f2335113c3f13891b86f836896f01\workspace\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:5-98
 	android:name
 		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a02f2335113c3f13891b86f836896f01\workspace\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:22-95
-service#androidx.credentials.playservices.CredentialProviderMetadataHolder
-ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
-	android:enabled
-		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
-	android:exported
-		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
-	tools:ignore
-		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:28:13-60
-	android:name
-		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
-meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
-ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
-	android:value
-		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
-	android:name
-		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
-activity#androidx.credentials.playservices.HiddenActivity
-ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
-	android:fitsSystemWindows
-		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
-	android:enabled
-		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
-	android:exported
-		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
-	android:configChanges
-		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
-	android:theme
-		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
-	android:name
-		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\a515a88055cd0ad2bb77e82d6293ad40\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
-activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
-	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
-service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
-	android:visibleToInstantApps
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
-	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\4e077719fdb8cacd5d03555535eb682c\workspace\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f74d367471c847be58f5745924aaef73\workspace\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f74d367471c847be58f5745924aaef73\workspace\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f74d367471c847be58f5745924aaef73\workspace\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f74d367471c847be58f5745924aaef73\workspace\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f0ea5db0302d2fe13df8e507c57a56f8\workspace\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\073c92ee6d7beeaf54bb07e4716da22e\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:24:9-32:20
@@ -658,6 +803,20 @@ ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Teagon\.gradle\
 		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\073c92ee6d7beeaf54bb07e4716da22e\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:31:17-49
 	android:name
 		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\073c92ee6d7beeaf54bb07e4716da22e\workspace\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:30:17-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\6134481df3dd2893b718563f3549eb5c\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\6134481df3dd2893b718563f3549eb5c\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\6134481df3dd2893b718563f3549eb5c\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\6134481df3dd2893b718563f3549eb5c\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f17d0b5155d81b4a5d94eddbcb7e0cf6\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\29053508e5b00c025d2443f6185f69ad\workspace\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
@@ -678,6 +837,40 @@ uses-permission#com.travlixto.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\29053508e5b00c025d2443f6185f69ad\workspace\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.13.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\29053508e5b00c025d2443f6185f69ad\workspace\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f683945a96985438d9bded5bd8277353\workspace\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f683945a96985438d9bded5bd8277353\workspace\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\f683945a96985438d9bded5bd8277353\workspace\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:26:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\68370f5a53d994f53e7a94dead9729e8\workspace\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\d89d0a5926582e095014e9eda808c9e1\workspace\transformed\transport-runtime-3.1.9\AndroidManifest.xml:33:13-132
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
 ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Teagon\.gradle\caches\9.3.0\transforms\91e8f707bddbe6345b2d5b6f5796ef7e\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
 	android:value

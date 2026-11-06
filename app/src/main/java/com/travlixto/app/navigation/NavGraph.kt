@@ -5,6 +5,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
@@ -31,7 +32,11 @@ object Routes {
     const val OTP = "otp"
     const val MAIN = "main" // hosts the bottom-nav section
     const val DETAILS = "details"
+    const val BOOKING = "booking"
     const val EDIT_PROFILE = "edit_profile"
+    const val BOOKMARKS = "bookmarks"
+    const val PREVIOUS_TRIPS = "previous_trips"
+    const val SETTINGS = "settings"
 }
 
 private object MainTabs {
@@ -50,6 +55,9 @@ fun TravlixtoNavGraph(navController: NavHostController) {
 
     // Holds the destination tapped on Home/Popular/Search so Details can read it.
     var selectedDestination by remember { mutableStateOf<Destination?>(null) }
+
+    // Set after a successful booking so Main opens on the Calendar tab.
+    var openScheduleTab by remember { mutableStateOf(false) }
 
     NavHost(navController = navController, startDestination = startDestination) {
 
@@ -82,25 +90,59 @@ fun TravlixtoNavGraph(navController: NavHostController) {
         }
         composable(Routes.MAIN) {
             MainScaffold(
+                openScheduleTab = openScheduleTab,
+                onScheduleOpened = { openScheduleTab = false },
                 onDestinationClick = { dest -> selectedDestination = dest; navController.navigate(Routes.DETAILS) },
                 onEditProfile = { navController.navigate(Routes.EDIT_PROFILE) },
-                onSignOut = { navController.navigate(Routes.LOGIN) { popUpTo(Routes.MAIN) { inclusive = true } } }
+                onBookmarks = { navController.navigate(Routes.BOOKMARKS) },
+                onPreviousTrips = { navController.navigate(Routes.PREVIOUS_TRIPS) },
+                onSettings = { navController.navigate(Routes.SETTINGS) }
             )
         }
         composable(Routes.DETAILS) {
-            DetailsScreen(destination = selectedDestination ?: Destination(), onBookNow = { navController.popBackStack() })
+            DetailsScreen(
+                destination = selectedDestination ?: Destination(),
+                onBookNow = { navController.navigate(Routes.BOOKING) }
+            )
+        }
+        composable(Routes.BOOKING) {
+            BookingScreen(
+                destination = selectedDestination ?: Destination(),
+                onBack = { navController.popBackStack() },
+                onBooked = {
+                    openScheduleTab = true
+                    // Drop Booking + Details and land back on the tabs.
+                    navController.popBackStack(Routes.MAIN, inclusive = false)
+                }
+            )
         }
         composable(Routes.EDIT_PROFILE) {
             EditProfileScreen(onDone = { navController.popBackStack() })
+        }
+        composable(Routes.BOOKMARKS) {
+            BookmarkedScreen(onBack = { navController.popBackStack() })
+        }
+        composable(Routes.PREVIOUS_TRIPS) {
+            PreviousTripsScreen(onBack = { navController.popBackStack() })
+        }
+        composable(Routes.SETTINGS) {
+            SettingsScreen(
+                onBack = { navController.popBackStack() },
+                onSignOut = { navController.navigate(Routes.LOGIN) { popUpTo(Routes.MAIN) { inclusive = true } } }
+            )
         }
     }
 }
 
 @Composable
 private fun MainScaffold(
+    openScheduleTab: Boolean,
+    onScheduleOpened: () -> Unit,
     onDestinationClick: (Destination) -> Unit,
     onEditProfile: () -> Unit,
-    onSignOut: () -> Unit
+    onBookmarks: () -> Unit,
+    onPreviousTrips: () -> Unit,
+    onSettings: () -> Unit
 ) {
     val tabNavController = rememberNavController()
     Scaffold(
@@ -112,10 +154,34 @@ private fun MainScaffold(
             modifier = Modifier.padding(padding)
         ) {
             composable(MainTabs.HOME) { HomeScreen(onDestinationClick) }
-            composable(MainTabs.SCHEDULE) { ScheduleScreen(scheduleItems = emptyList()) }
+            composable(MainTabs.SCHEDULE) { ScheduleScreen() }
             composable(MainTabs.SEARCH) { SearchScreen(onDestinationClick) }
             composable(MainTabs.POPULAR) { PopularPlacesScreen(onDestinationClick) }
-            composable(MainTabs.PROFILE) { ProfileScreen(onEditProfile, onSignOut) }
+            composable(MainTabs.PROFILE) {
+                ProfileScreen(
+                    onBack = {
+                        tabNavController.navigate(MainTabs.HOME) {
+                            popUpTo(tabNavController.graph.findStartDestination().id) { saveState = true }
+                            launchSingleTop = true
+                            restoreState = true
+                        }
+                    },
+                    onEditProfile = onEditProfile,
+                    onBookmarks = onBookmarks,
+                    onPreviousTrips = onPreviousTrips,
+                    onSettings = onSettings
+                )
+            }
+        }
+        LaunchedEffect(openScheduleTab) {
+            if (openScheduleTab) {
+                tabNavController.navigate(MainTabs.SCHEDULE) {
+                    popUpTo(tabNavController.graph.findStartDestination().id) { saveState = true }
+                    launchSingleTop = true
+                    restoreState = true
+                }
+                onScheduleOpened()
+            }
         }
     }
 }

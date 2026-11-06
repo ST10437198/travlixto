@@ -7,40 +7,65 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.travlixto.app.data.model.Destination
-import com.travlixto.app.data.model.ScheduleItem
+import com.travlixto.app.data.model.isoToDisplayDate
+import com.travlixto.app.data.repository.BookingRepository
 import com.travlixto.app.data.repository.DestinationRepository
 import com.travlixto.app.ui.theme.TravLightGray
+import kotlinx.coroutines.flow.catch
 import kotlinx.coroutines.launch
 
 @Composable
-fun ScheduleScreen(scheduleItems: List<ScheduleItem>) {
+fun ScheduleScreen() {
+    val repository = remember { BookingRepository() }
+    val scope = rememberCoroutineScope()
+    var error by remember { mutableStateOf<String?>(null) }
+    val bookings by remember {
+        repository.observeMyBookings().catch { error = it.message; emit(emptyList()) }
+    }.collectAsState(initial = emptyList())
+
     Column(modifier = Modifier.fillMaxSize().padding(20.dp)) {
         Text("Schedule", fontSize = 20.sp, fontWeight = FontWeight.Bold)
         Spacer(modifier = Modifier.height(16.dp))
         Text("My Schedule", fontWeight = FontWeight.SemiBold)
         Spacer(modifier = Modifier.height(10.dp))
-        if (scheduleItems.isEmpty()) {
+        error?.let {
+            Text(it, fontSize = 12.sp, color = MaterialTheme.colorScheme.error)
+            Spacer(modifier = Modifier.height(8.dp))
+        }
+        if (bookings.isEmpty()) {
             Text("No trips scheduled yet.", fontSize = 13.sp, color = Color.Gray)
         } else {
             LazyColumn(verticalArrangement = Arrangement.spacedBy(10.dp)) {
-                items(scheduleItems) { item ->
+                items(bookings, key = { it.id }) { booking ->
                     Row(
                         modifier = Modifier
                             .fillMaxWidth()
                             .background(TravLightGray, RoundedCornerShape(10.dp))
-                            .padding(14.dp)
+                            .padding(14.dp),
+                        verticalAlignment = Alignment.CenterVertically
                     ) {
-                        Column {
-                            Text(item.date, fontSize = 11.sp, color = Color.Gray)
-                            Text(item.destinationName, fontWeight = FontWeight.SemiBold)
-                            Text(item.city, fontSize = 12.sp, color = Color.Gray)
+                        Column(modifier = Modifier.weight(1f)) {
+                            Text(isoToDisplayDate(booking.date), fontSize = 11.sp, color = Color.Gray)
+                            Text(booking.destinationName, fontWeight = FontWeight.SemiBold)
+                            Text(booking.city, fontSize = 12.sp, color = Color.Gray)
+                            Text(
+                                "${booking.travelers} traveler${if (booking.travelers == 1) "" else "s"} \u00B7 ${booking.totalPrice} \u00B7 ${booking.status}",
+                                fontSize = 12.sp,
+                                color = Color.DarkGray
+                            )
                         }
+                        TextButton(onClick = {
+                            scope.launch {
+                                repository.cancelBooking(booking.id).onFailure { error = it.message }
+                            }
+                        }) { Text("Cancel") }
                     }
                 }
             }

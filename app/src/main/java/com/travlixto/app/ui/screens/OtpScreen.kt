@@ -9,12 +9,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.travlixto.app.ui.theme.TravCyan
 
-/**
- * OTP verification screen. NOTE: Firebase's standard email/password auth
- * does not use an OTP step by default — this UI is wired to call onVerified()
- * directly. If you want real OTP, use Firebase Phone Auth (PhoneAuthProvider)
- * instead of email/password, which sends a real SMS code.
- */
+
 @Composable
 fun OtpScreen(onVerified: () -> Unit) {
     val digits = remember { mutableStateListOf("", "", "", "") }

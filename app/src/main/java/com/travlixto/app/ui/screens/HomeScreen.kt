@@ -1,5 +1,9 @@
 package com.travlixto.app.ui.screens
 
+import coil.compose.AsyncImage
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.draw.clip
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.clickable
@@ -62,18 +66,23 @@ fun DestinationCard(dest: Destination, onClick: () -> Unit) {
             .padding(10.dp)
             .clickable(onClick = onClick)
     ) {
-        Box(
-            modifier = Modifier
-                .fillMaxWidth()
-                .height(90.dp)
-                .background(Color(0xFFB0DDE8), shape = androidx.compose.foundation.shape.RoundedCornerShape(10.dp))
-        )
-        Spacer(modifier = Modifier.height(6.dp))
-        Text(dest.name.ifBlank { "Destination" }, fontWeight = FontWeight.SemiBold, fontSize = 14.sp)
-        Row(verticalAlignment = Alignment.CenterVertically) {
-            Icon(Icons.Filled.Star, contentDescription = null, tint = Color(0xFFFFC107), modifier = Modifier.size(14.dp))
-            Spacer(modifier = Modifier.width(4.dp))
-            Text(dest.rating.toString(), fontSize = 12.sp)
+        if (dest.imageUrl.isBlank()) {
+            Box(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .height(90.dp)
+                    .background(Color(0xFFB0DDE8), RoundedCornerShape(10.dp))
+            )
+        } else {
+            AsyncImage(
+                model = dest.imageUrl,
+                contentDescription = dest.name,
+                contentScale = ContentScale.Crop,
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .height(90.dp)
+                    .clip(RoundedCornerShape(10.dp))
+            )
         }
         Text(dest.city.ifBlank { "Cape Town" }, fontSize = 11.sp, color = Color.Gray)
     }

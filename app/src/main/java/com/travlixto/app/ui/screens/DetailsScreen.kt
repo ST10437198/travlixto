@@ -37,7 +37,7 @@ fun DetailsScreen(destination: Destination, onBookNow: () -> Unit) {
             Text("About Destination", fontWeight = FontWeight.SemiBold)
             Text(
                 destination.description.ifBlank {
-                    "You will get a complete travel package on the beaches. Packages in the form of airline tickets, recommended hotel rooms, transportation. Have you ever been on holiday to South Africa? Read More"
+                    "You will get a complete travel package on the booking page. Packages in the form of airline tickets, recommended hotel rooms, transportation. Have you ever been on holiday to South Africa? Read More"
                 },
                 fontSize = 13.sp,
                 color = Color.DarkGray
