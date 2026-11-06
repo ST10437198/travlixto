@@ -2,6 +2,8 @@
 
 **YOUTUBE LINK: https://youtu.be/V05CFgzsGD4?si=HXs3nI5OhsiARVN9**
 
+**The evidence for the signed APK in in the travlixto report PDF in the REPOSITORY**
+
 - Core app: a Kotlin and Jetpack Compose Android project with the screens from your mockups: Splash, Onboarding, Sign In, Sign Up, Forgot Password, OTP, Home, Details, Schedule, Search, Popular Places, Profile and Edit Profile. It has bottom-tab navigation and the cyan Travlixto theme.
 - **Firebase backend:** Firebase Authentication for sign in, sign up and password reset, and Cloud Firestore for user profiles and destinations. Retrofit is set up and ready for any REST API, but it isn't connected to anything yet.
 - Booking feature:
