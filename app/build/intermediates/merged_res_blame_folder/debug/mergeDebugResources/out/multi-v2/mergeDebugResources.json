@@ -6006,9 +6006,9 @@
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
-                        "startOffsets": "16",
+                        "startOffsets": "17",
                         "endColumns": "46",
-                        "endOffsets": "58"
+                        "endOffsets": "59"
                     },
                     "to": {
                         "startLines": "121",
@@ -6076,9 +6076,9 @@
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
-                        "startOffsets": "63",
+                        "startOffsets": "64",
                         "endColumns": "86",
-                        "endOffsets": "145"
+                        "endOffsets": "146"
                     },
                     "to": {
                         "startLines": "264",
